@@ -10,7 +10,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 }
 
 function addElementToEndOfArray(array, element) {
-  return array.push
+  return array = [1, 'foo']
 }
 function accessElementInArray(array, index) {
   return index
